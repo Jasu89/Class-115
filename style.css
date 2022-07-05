@@ -1,0 +1,28 @@
+h3{
+    background-color: rgb(215, 163, 94);
+    width: 200px;
+    height: 40px;
+    padding-top: 8px;
+}
+
+button{
+    color: rgb(208, 143, 87);
+    width: 150px;
+    height: 30;
+}
+
+h3
+{
+    font-size: 25px !important;
+}
+
+.btn-sucess:hover
+{
+    background-color: red;
+}
+
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
